@@ -27,7 +27,7 @@ body {
   min-height: 20vh;
   padding: 35px 20px;
   background: repeating-linear-gradient(#F1EDE9, #F1EDE9 31px, #94ACD4 31px, #94ACD4 32px);
-  font-family: 'Shadows Into Light', cursive;
+  font-family: 'Shadows Into Light', 'Sacramento', 'Cookie', cursive;
   line-height: 32px;
   outline: 0;
   font-size: 22px;
